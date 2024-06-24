@@ -1,0 +1,2 @@
+# RatingService
+Microservice Rating POC
